@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.da162923.css",
+    "main.js": "./static/js/main.61dc0474.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/Rectangle3.jpg": "./static/media/Rectangle3.f8d45d562056cb3d9fe1.jpg",
+    "static/media/Rectangle 28.png": "./static/media/Rectangle 28.1047405a08c3e1db9a71.png",
+    "static/media/Rectangle 15.png": "./static/media/Rectangle 15.720bea11449a400de69a.png",
+    "static/media/Rectangle 15 (2).png": "./static/media/Rectangle 15 (2).1257a804b250eefe0c13.png",
+    "static/media/Rectangle 15 (1).png": "./static/media/Rectangle 15 (1).8e32c8299e27bfe9f6e3.png",
+    "static/media/image3.jpg": "./static/media/image3.8e49b50303b1e493c1cb.jpg",
+    "static/media/Rectangle 12.jpg": "./static/media/Rectangle 12.65947cec41e72add3213.jpg",
+    "static/media/pechat-afish-1.jpeg": "./static/media/pechat-afish-1.419c616778409eff9731.jpeg",
+    "index.html": "./index.html",
+    "main.da162923.css.map": "./static/css/main.da162923.css.map",
+    "main.61dc0474.js.map": "./static/js/main.61dc0474.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da162923.css",
+    "static/js/main.61dc0474.js"
+  ]
+}
